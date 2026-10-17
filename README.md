@@ -6,7 +6,7 @@ filesystem and process information in a compact dashboard.
 
 ## Demo
 
-[Watch the rtop demo](rtop-demo.mp4).
+<video src="rtop-demo.mp4" controls width="100%"></video>
 
 ## Requirements and installation
 
