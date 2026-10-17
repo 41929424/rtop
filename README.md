@@ -4,6 +4,10 @@
 `termr` 1.0.1 terminal UI framework. It displays CPU, memory, network,
 filesystem and process information in a compact dashboard.
 
+## Demo
+
+[Watch the rtop demo](rtop-demo.mp4).
+
 ## Requirements and installation
 
 - R 4.1 or newer
