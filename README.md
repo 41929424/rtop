@@ -6,7 +6,7 @@ filesystem and process information in a compact dashboard.
 
 ## Demo
 
-![rtop demo](screenshots/rtop-clean.gif)
+![rtop demo](rtop-clean.gif)
 
 ## Requirements and installation
 
