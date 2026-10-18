@@ -3,6 +3,7 @@
 `rtop` is an interactive Linux system monitor written in R and built on the
 `termr` 1.0.1 terminal UI framework. It displays CPU, memory, network,
 filesystem and process information in a compact dashboard.
+termr repo - https://github.com/menshikovs/termr
 
 ## Demo
 
